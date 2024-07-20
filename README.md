@@ -1,7 +1,7 @@
 # Client Churn Prediction
 
 ## Introduction
-This project aims to create a machine learning model to predict whether the client of Beta Bank will remain or leave.
+This project aims to create a machine learning model to predict whether the client of Beta Bank (not a real company) will remain or leave.
 
 ## Goal
 To develop a machine learning model to predict client churn with an F1 score exceeding 0.59.
